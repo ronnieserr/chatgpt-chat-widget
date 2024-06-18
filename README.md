@@ -1,1 +1,1 @@
-# chatgpt-chat-widget
+# chatgpt-chat-widget v1
